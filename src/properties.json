@@ -1,0 +1,334 @@
+{
+  "count": 503263,
+  "results": [
+    {
+      "location": {
+        "display_name": "Waterbeach, Cambridge",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Cambridgeshire",
+          "Cambridge",
+          "Waterbeach"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "for-sale",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "For Sale"
+      },
+      "id": 428513691,
+      "title": "House for sale in Land",
+      "property_type": "house",
+      "is_furnished": "0",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "description": "Planning Granted Building plot adjacent to 8 Pieces Court, full planning granted for two bedroom end of terrace property Planning Application Ref:S/0831/97/F,",
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428513691?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=C0DE32F0A39219240EBCD98D34FA7B35A4038952",
+      "latitude": 52.267101,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjo0Mjg1MTM2OTEsInMiOiJjeTdROUMzVFRscV9nQnJ4VEJxdFhnIn0.P7uhPX6m-vlMzKnFtB2fguFua3ZiIZMbOm6xLYMCqLE",
+      "created": "2016-08-30T02:56:27Z",
+      "beds": 0,
+      "longitude": 0.196564,
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/2a31b728de9c5101eeafb94c2bbbe74dde9b98927f59d3a3c84c78855e378b0d.jpeg",
+      "postcode": "CB259QL",
+      "sale_price": 114950
+    },
+    {
+      "latitude": 54.558399,
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428060086?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=5849825CDD6D3AD01319A91FCB49B17F15A5C013",
+      "is_furnished": "0",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "description": "Located close to Normanby Centre where there are a good range of amenities and transport services, this period style property benefits GAS CENTRAL HEATING and UPVC DOUBLE GLAZING throughout. The accommodation benefits 2 SEPARATE RECEPTION ROOMS, the dining room being in excess of 18 feet in",
+      "id": 428060086,
+      "title": "3 bed terraced house for sale in Normanby Road",
+      "property_type": "house_terraced",
+      "location": {
+        "display_name": "Normanby, Middlesbrough",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North East England",
+          "North Yorkshire",
+          "Middlesbrough",
+          "Normanby"
+        ]
+      },
+      "category": {
+        "tag": "for-sale",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "For Sale"
+      },
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/2d54d277d04bb4ad332ed3e7f820acf4dd9aad05734f6af185a6edd4dfeb559b.jpeg",
+      "postcode": "TS60DX",
+      "sale_price": 120000,
+      "beds": 3,
+      "longitude": -1.15635,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjo0MjgwNjAwODYsInMiOiJjeTdROUMzVFRscV9nQnJ4VEJxdFhnIn0.MhcbK_6jCQUp8jFcGoLeWYOcS-t5BR4IYImY-ow5fwE",
+      "created": "2016-08-28T03:08:28Z"
+    },
+    {
+      "title": "4 bed house for sale in Chessington Avenue",
+      "id": 428060079,
+      "property_type": "house",
+      "location": {
+        "display_name": "Barnehurst, Bexleyheath",
+        "area": [
+          "UK",
+          "South East England",
+          "Kent",
+          "Bexleyheath",
+          "Barnehurst"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "For Sale",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "for-sale"
+      },
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428060079?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=0EF4F5C5594D44ACE3AA0B0D9C78B6BE3FA64D69",
+      "latitude": 51.474602,
+      "is_furnished": "0",
+      "description": "GUIDE PRICE £475,000 - £495,000 Village Estates are delighted to present this tastefully extended four bedroomed semi detached family house located within a popular avenue.",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "beds": 4,
+      "longitude": 0.135244,
+      "created": "2016-08-28T03:08:27Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY3k3UTlDM1RUbHFfZ0JyeFRCcXRYZyIsImkiOjQyODA2MDA3OX0.gvOAZ8h-wpDAZYrrk_f5gAMx59mAK932t8ZpXkxSbNU",
+      "sale_price": 475000,
+      "postcode": "DA75NP",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/d7f5f2ce3ec37f2fefd1bb4da4e109452b490abb4893dd73f36b99b8204b1fcb.jpeg"
+    },
+    {
+      "is_furnished": "0",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "description": "A very smart semi-detached bungalow with spacious accommodation totalling approx. 820 sq.ft. which has been fully refurbished in recent years. This lovely home features modern style fittings throughout and generous room sizes and also features a sunny courtyard style garden to the rear. Situated on the forever popular Hoburne Farm Estate, just a short walk to the Sainsbury’s Superstore, Stewarts Garden Lands with the interconnecting bus services giving easy access into Christchurch and beyond. …",
+      "latitude": 50.742802,
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428511788?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=37FB684BC8DDE5C8C204B652CF4D7BC5AA0225FE",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South West England",
+          "Dorset",
+          "Christchurch",
+          "Highcliffe"
+        ],
+        "display_name": "Highcliffe, Christchurch"
+      },
+      "category": {
+        "label": "For Sale",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "for-sale"
+      },
+      "id": 428511788,
+      "title": "2 bed house for sale in HIGHCLIFFE ON SEA",
+      "property_type": "house",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/311a094b634549f826749567084557c2b07474262a656a86f8f265e064ca61f3.jpeg",
+      "postcode": "BH234LW",
+      "sale_price": 295000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY3k3UTlDM1RUbHFfZ0JyeFRCcXRYZyIsImkiOjQyODUxMTc4OH0.BNycjSGJ7WjTNXy4tfp_z_Mtrj4FR1cRGk3nwG36qKg",
+      "created": "2016-08-30T02:55:13Z",
+      "beds": 2,
+      "longitude": -1.73358
+    },
+    {
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/ce1189f834cbca9b21d9c2c82427d944d418a9449a2a6fbe6b3897ecb394ca2e.jpeg",
+      "postcode": "HA89JJ",
+      "sale_price": 435000,
+      "beds": 3,
+      "longitude": -0.269187,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY3k3UTlDM1RUbHFfZ0JyeFRCcXRYZyIsImkiOjQyODA2MDAyNH0._Oo8_SqHPbpkOdG1CPGE_N1vTtT9PIHq56INzVoiRQ0",
+      "created": "2016-08-28T03:08:22Z",
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428060024?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=B92FF1361DC0176EB05DB326079457F2AE33FA48",
+      "latitude": 51.610298,
+      "is_furnished": "0",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "description": "Three Bedroom End Of Terrace House Joseph Scott are offering to the sales market this 3 Bedroom extended to the rear end of terrace house. The vendors have informed us that the property is currently rented out on an Assured Short-hold Tenancy Agreement however vacant possession can be gained if",
+      "id": 428060024,
+      "title": "3 bed house for sale in Banstock Road",
+      "property_type": "house",
+      "location": {
+        "area": [
+          "UK",
+          "London",
+          "North West London",
+          "Edgware"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Edgware, North West London"
+      },
+      "category": {
+        "tag": "for-sale",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "For Sale"
+      }
+    },
+    {
+      "beds": 3,
+      "longitude": 1.2438,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjo0MjgwNjAwMDAsInMiOiJjeTdROUMzVFRscV9nQnJ4VEJxdFhnIn0.PxlYqL-yfHvvGVTaNfoUO74x1VOdHi39M_rJM0XIJUg",
+      "created": "2016-08-28T03:08:21Z",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/7435e8f2d35e25d1d62e9179f18f5ed53711c65c5fd93afc2d81986dc4dc0e4c.jpeg",
+      "sale_price": 285000,
+      "postcode": "NR116WE",
+      "id": 428060000,
+      "title": "3 bed detached house for sale in Proudfoot Way",
+      "property_type": "house_detached",
+      "location": {
+        "display_name": "Aylsham, Norwich",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Norfolk",
+          "Norwich",
+          "Aylsham"
+        ]
+      },
+      "category": {
+        "label": "For Sale",
+        "tag": "for-sale",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 52.791,
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428060000?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=21F7C82DD52AC505AC73B9C2F10F66A54681A9EA",
+      "is_furnished": "0",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "description": "A three bedroom detached modern House built by Norfolk Homes enjoying a tucked away location on this popular development situated on the edge of the market town of Aylsham, with the town offering its comprehensive local shops, schooling and amenities, and the development provides excellent access to the A140 with direct links to the coastal town of Cromer and the City of Norwich. The property's accommodation is currently arranged to provide Entrance Hall, Cloakroom, Lounge, Dining room, Kitchen…"
+    },
+    {
+      "beds": 7,
+      "longitude": 0.837588,
+      "created": "2016-08-28T03:08:21Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY3k3UTlDM1RUbHFfZ0JyeFRCcXRYZyIsImkiOjQyODA2MDAwNH0.Kc1K5t_k9y0IGId8tO5QuusDO84GgKMHkBs7uh3h_MU",
+      "sale_price": 600000,
+      "postcode": "PE322RA",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/cfbd206e753f470fca9acf328c7d8df087531bd28dfb9ea87c7674b9f3975ffb.jpeg",
+      "title": "7 bedroom property",
+      "id": 428060004,
+      "property_type": "house_detached",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Norfolk",
+          "King's Lynn",
+          "Mileham"
+        ],
+        "display_name": "Mileham, King's Lynn"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "for-sale",
+        "label": "For Sale"
+      },
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428060004?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=F6425EED7539F2108E4F22EDC563BC857AD7FE90",
+      "latitude": 52.738499,
+      "is_furnished": "0",
+      "description": "MODERN METHOD OF AUCTION Situated in the sought after village of Mileham is this stunning equestrian property consisting of a seven bedroom barn conversion, five holiday units, luxury office space, two warehouse storage units, garaging, stables and paddocks in approx. 2.6 acres (stms) and the grounds of approx. 3.3 acres in total (stms). This property is for sale by the Modern Method of Auction which is not to be confused with traditional auction. The Modern Method of Auction is a flexible buye…",
+      "__CLASS__": "Adzuna::API::Response::Property"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiY3k3UTlDM1RUbHFfZ0JyeFRCcXRYZyIsImkiOjQyODA1OTk3Mn0.ToXuwTKhhlQBtBxDcbNW3QGngwcWddeiSbJVHB0bQQk",
+      "created": "2016-08-28T03:08:16Z",
+      "longitude": -2.54879,
+      "beds": 3,
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/4e41b265325da93d2744a156ba0b566a0e240d68cbac31b063c655153db05da3.jpeg",
+      "postcode": "CW81RP",
+      "sale_price": 186500,
+      "category": {
+        "label": "For Sale",
+        "tag": "for-sale",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Cheshire",
+          "Northwich",
+          "Hartford"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hartford, Northwich"
+      },
+      "property_type": "house",
+      "id": 428059972,
+      "title": "3 bed house for sale in Grosvenor Avenue",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "description": "Royal Fox Estates are very pleased to offer to the open market with no onward chain this modern semi detached house offering three bedroom accommodation. Situated in a very much sought after residential development the property stands in private gardens to both the front and rear.",
+      "is_furnished": "0",
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428059972?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=F7369152E340CAAEBB14ADE3C7480110B57E3A57",
+      "latitude": 53.242599
+    },
+    {
+      "is_furnished": "0",
+      "description": "Located on the fourth floor of this purpose built block is this great value for money property, moments from Streatham Hill Station. Energy Efficiency Rating D.",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428059964?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=56884C5451941AD18B8804EB480156085A8971FD",
+      "latitude": 51.433701,
+      "location": {
+        "display_name": "Streatham, South West London",
+        "area": [
+          "UK",
+          "London",
+          "South West London",
+          "Streatham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "For Sale",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "for-sale"
+      },
+      "title": "2 bed flat for sale in Leigham Avenue London SW16",
+      "id": 428059964,
+      "property_type": "flat",
+      "sale_price": 365000,
+      "postcode": "SW162TL",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/17b39f3fb9ad90a7dac1d65d78c12e901a186b6e73df221b9a83c149ce473100.jpeg",
+      "created": "2016-08-28T03:08:14Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjo0MjgwNTk5NjQsInMiOiJjeTdROUMzVFRscV9nQnJ4VEJxdFhnIn0.ojhEFd7ascvYOygEkv02oH6yZo281Pbam9ymbxGZwc8",
+      "beds": 2,
+      "longitude": -0.124447
+    },
+    {
+      "location": {
+        "display_name": "Trewern, Welshpool",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Wales",
+          "Powys",
+          "Welshpool",
+          "Trewern"
+        ]
+      },
+      "category": {
+        "label": "For Sale",
+        "tag": "for-sale",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "5 bedroom detached house",
+      "id": 428511674,
+      "property_type": "house_detached",
+      "is_furnished": "0",
+      "description": "A modern 4/5 bedroom detached house with very flexible accommodation, including an attached annexe, with just under 1.75 acres of grounds and sensational far reaching views. (contd)",
+      "__CLASS__": "Adzuna::API::Response::Property",
+      "latitude": 52.70406,
+      "redirect_url": "https://property.adzuna.co.uk/land/ad/428511674?se=cy7Q9C3TTlq_gBrxTBqtXg&utm_medium=api&utm_source=a342b950&v=B5AC46FE4861EDC8A872E547365CC82030047611",
+      "created": "2016-08-30T02:54:02Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjo0Mjg1MTE2NzQsInMiOiJjeTdROUMzVFRscV9nQnJ4VEJxdFhnIn0.2wTZlZu8ZjaW-oY1ixNMLbTz82dpjBvUP-WcshKLNh8",
+      "beds": 5,
+      "longitude": -3.0627,
+      "sale_price": 399950,
+      "postcode": "SY218EB",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/property.adzuna.co.uk/66c7bfe840521830e105df1a6b321e3bb6bd4b6349c115b25f8d2f91b13e9925.jpeg"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::PropertySearchResults"
+}
