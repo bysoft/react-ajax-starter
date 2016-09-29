@@ -1,17 +1,15 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
-import './App.css'
 import axios from 'axios'
 import json from './properties.json'
 
 class App extends Component {
 
   constructor(props) {
-    super(props);
+    super(props)
 
     this.state = {
       results: []
-    };
+    }
   }
 
   componentDidMount() {
